@@ -5,7 +5,6 @@
 .headerTitle{
     font-size: 25px;
 }
-
 .todoListWrapper{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
